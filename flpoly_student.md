@@ -1,27 +1,29 @@
-## First Name Last Name
+### Brisco Swartz
 
-### Term Year 
+### 2024-2025 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Foundations of Data Analytics
 
-- Course 2
+- Object Oriented Programming
 
-- Course 3
+- Physics 2 Laboratory
 
-- Course 4
+- Physics 2
+
+- Statistics 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Pokemon
 
-- Thing 2
+- Messing around with Excel
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Sports Statistics as shown in this website <https://www.statmuse.com>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/09/01
